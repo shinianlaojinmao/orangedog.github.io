@@ -6808,9 +6808,3 @@ a[data-fancybox] {
   margin-right: 1rem;
   border-radius: 8px;
 }
-.cmt-body.artalk .artalk {
-  --at-color-main: #1cd0fd;
-}
-.cmt-body.artalk .artalk .atk-main-editor {
-  border-radius: 12px;
-}
